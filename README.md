@@ -1,16 +1,14 @@
-# notes
+# ⚡ About Project
+this is a Notes  App using Flutter framework, SQlite DB for local data storage and Provider StateManagment.
+>>
+Some features of the app
+<h4>✅User login</h4>
+<h4>✅User registration</h4>
+<h4>✅Add a new Task</h4>
+<h4>✅Update a Task</h4>
+<h4>✅Delete a Task</h4>
+<h4>✅moving task from incomplete into complete</h4>
 
-A new Flutter project.
+# Application video link:
+https://youtube.com/shorts/B9gXxRZ5uOs
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
